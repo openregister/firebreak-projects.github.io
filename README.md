@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to GOV.UK Firebreak Projects
 
-You can use the [editor on GitHub](https://github.com/openregister/firebreak-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Several times a year, the team spends a week pitching and collaborating on self-directed ideas. We put what we build or prototype here so that others can contribute to the code, or just take a look at what we've been thinking about. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### January 2018
 
-### Markdown
+The projects the team are working on in the January 2018 firebreak are: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Upvote a Register
 
-```markdown
-Syntax highlighted code block
+code:
+readme: 
+deployed prototype:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Create your own temporary Register
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openregister/firebreak-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+code:
+readme: 
+deployed prototype:
