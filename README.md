@@ -8,8 +8,8 @@ The projects the team are working on in the January 2018 firebreak are:
 
 ## Upvote a Register
 
-code:
-readme: 
+code: https://github.com/openregister/registers-upvote
+readme: https://github.com/openregister/registers-upvote/blob/master/README.md
 deployed prototype:
 
 
