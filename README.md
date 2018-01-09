@@ -12,7 +12,7 @@ code: https://github.com/openregister/registers-upvote
 
 readme: https://github.com/openregister/registers-upvote/blob/master/README.md
 
-deployed prototype:
+deployed prototype: https://registers-upvote.herokuapp.com/registers
 
 
 ## Create your own temporary Register
