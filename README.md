@@ -12,11 +12,11 @@ The projects the team are working on in the January 2018 firebreak are:
 - express interest as a potential user (publicly visible as a +1 for that register)
 - provide contact details & service description/link/name to GOV.UK Registers Team (not public)
 
-**code:** https://github.com/openregister/registers-upvote
+**code:** [https://github.com/openregister/registers-upvote](https://github.com/openregister/registers-upvote)
 
-**readme:** https://github.com/openregister/registers-upvote/blob/master/README.md
+**readme:** [https://github.com/openregister/registers-upvote/blob/master/README.md](https://github.com/openregister/registers-upvote/blob/master/README.md_)
 
-**deployed prototype:** https://registers-upvote.herokuapp.com/registers
+**deployed prototype:** [https://registers-upvote.herokuapp.com/registers](https://registers-upvote.herokuapp.com/registers)
 
 
 ## Create your own temporary Register
