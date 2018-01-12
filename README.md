@@ -32,3 +32,8 @@ You will be able to
 **readme:**
 
 **deployed prototype:**
+
+## address-lookup frontend 
+Frontend for [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+
+**code:** https://github.com/gidsg/address-lookup-frontend
