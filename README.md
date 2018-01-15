@@ -1,4 +1,4 @@
-## Welcome to GOV.UK Firebreak Projects
+## Welcome to GOV.UK Registers Firebreak Projects
 
 Several times a year, the team spends a week pitching and collaborating on self-directed ideas. We put what we build or prototype here so that others can contribute to the code, or just take a look at what we've been thinking about. 
 
@@ -27,7 +27,7 @@ You will be able to
 - Create new fields specific to your subject area
 - Mock up a register for your data and share it with colleagues, or even use it in a prototype service
 
-**code:**
+**code:** 
 
 **readme:**
 
