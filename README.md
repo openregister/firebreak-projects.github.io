@@ -37,7 +37,7 @@ Frontend for [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
 **code:** [https://github.com/gidsg/address-lookup-frontend](https://github.com/gidsg/address-lookup-frontend)
 
 ## Firehose
-Adds an SNS notification when a register is updated and associated Lambda consumer examples
+Adds an SNS notification when a register is updated and associated Lambda consumer examples for a Slack Webhook and Cache Invalidation.
 
 **code** 
 * [https://github.com/openregister/openregister-java/tree/firehose](https://github.com/openregister/openregister-java/tree/firehose)
