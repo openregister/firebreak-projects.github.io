@@ -27,11 +27,9 @@ You will be able to
 - Create new fields specific to your subject area
 - Mock up a register for your data and share it with colleagues, or even use it in a prototype service
 
-**code:** 
+**code:** https://github.com/openregister/firebreak-2018
 
-**readme:**
-
-**deployed prototype:**
+**deployed prototype:** https://firebreak-2018.herokuapp.com
 
 ## address-lookup frontend 
 Frontend for [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
