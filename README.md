@@ -34,4 +34,11 @@ You will be able to
 ## address-lookup frontend 
 Frontend for [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
 
-**code:** https://github.com/gidsg/address-lookup-frontend
+**code:** [https://github.com/gidsg/address-lookup-frontend](https://github.com/gidsg/address-lookup-frontend)
+
+## Firehose
+Adds an SNS notification when a register is updated and associated Lambda consumer examples
+
+**code** 
+* [https://github.com/openregister/openregister-java/tree/firehose](https://github.com/openregister/openregister-java/tree/firehose)
+* [https://github.com/openregister/lambda-updater](https://github.com/openregister/lambda-updater)
