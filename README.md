@@ -19,6 +19,19 @@ The projects the team are working on in the January 2018 firebreak are:
 **deployed prototype:** [https://registers-upvote.herokuapp.com/registers](https://registers-upvote.herokuapp.com/registers)
 
 
+## Registers Sprint 
+**A sprint-by-sprint list of what we're doing and learning that:**
+- documents achieved milestones for each sprint
+- documents user research findings
+
+**code:** [https://github.com/openregister/firebrakeproject](https://github.com/openregister/firebrakeproject)
+
+**readme:** [https://github.com/openregister/firebrakeproject/blob/master/README.md](https://github.com/openregister/firebrakeproject/blob/master/README.md)
+
+**deployed prototype:** [https://registersfirebrakeproject2018.herokuapp.com/](https://registersfirebrakeproject2018.herokuapp.com/)
+
+
+
 ## Create your own temporary Register
 A mini-service that lets you explore your own data through the registers model. 
 You will be able to 
