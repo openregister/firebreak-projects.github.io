@@ -24,9 +24,9 @@ The projects the team are working on in the January 2018 firebreak are:
 - documents achieved milestones for each sprint
 - documents user research findings
 
-**code:** [https://github.com/openregister/firebrakeproject](https://github.com/openregister/firebrakeproject)
+**code:** [https://github.com/openregister/registers_sprint_by_sprint](https://github.com/openregister/registers_sprint_by_sprint)
 
-**readme:** [https://github.com/openregister/firebrakeproject/blob/master/README.md](https://github.com/openregister/firebrakeproject/blob/master/README.md)
+**readme:** [https://github.com/openregister/registers_sprint_by_sprint/blob/master/README.md](https://github.com/openregister/registers_sprint_by_sprint/blob/master/README.md)
 
 **deployed prototype:** [https://registersfirebrakeproject2018.herokuapp.com/](https://registersfirebrakeproject2018.herokuapp.com/)
 
